@@ -72,4 +72,8 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=spring,django">
 
 ### DevOps Tools
-<img src="https://skillicons.dev/icons?i=docker">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,prometheus" />
+  </a>
+</p>
